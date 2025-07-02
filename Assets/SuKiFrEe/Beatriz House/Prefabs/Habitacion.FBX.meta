@@ -1,0 +1,1077 @@
+fileFormatVersion: 2
+guid: b77d08e2fe7d50e4bbaf184e05819ed0
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: 01_SQUARE CARPET BODY
+    100002: 3dSolid
+    100004: 3dSolid 1
+    100006: 3dSolid 10
+    100008: 3dSolid 11
+    100010: 3dSolid 12
+    100012: 3dSolid 13
+    100014: 3dSolid 14
+    100016: 3dSolid 15
+    100018: 3dSolid 2
+    100020: 3dSolid 3
+    100022: 3dSolid 4
+    100024: 3dSolid 5
+    100026: 3dSolid 6
+    100028: 3dSolid 7
+    100030: 3dSolid 8
+    100032: 3dSolid 9
+    100034: 3dSolid001
+    100036: 3dSolid002
+    100038: 3dSolid003
+    100040: BIG_WINDOW
+    100042: BIG_WINDOW001
+    100044: Box001
+    100046: Box001 1
+    100048: Box002
+    100050: Box002 1
+    100052: Box004
+    100054: Box005
+    100056: Box006
+    100058: Box007
+    100060: Box008
+    100062: Box008 1
+    100064: Box009
+    100066: Box010
+    100068: Box011
+    100070: Box012
+    100072: Box013
+    100074: Box014
+    100076: Box015
+    100078: Box016
+    100080: Box017
+    100082: Box018
+    100084: Box019
+    100086: Box020
+    100088: Box021
+    100090: Box022
+    100092: Box023
+    100094: Box024
+    100096: Box025
+    100098: Box026
+    100100: Box027
+    100102: Cylinder002
+    100104: Cylinder003
+    100106: Cylinder211
+    100108: Cylinder212
+    100110: Eames_DSW_Chair_001
+    100112: Eames_DSW_Chair_002
+    100114: Eames_DSW_Details_001
+    100116: Eames_DSW_Details_002
+    100118: Eames_DSW_Legs_001
+    100120: Eames_DSW_Legs_002
+    100122: Eames_DSW_Metals_001
+    100124: Eames_DSW_Metals_002
+    100126: Eames_DSW_Top_001
+    100128: Eames_DSW_Top_002
+    100130: FLOOR
+    100132: frise11_z_
+    100134: frise11_z_001
+    100136: Group001
+    100138: Group002
+    100140: //RootNode
+    100142: LCD Screen
+    100144: Line634
+    100146: Line635
+    100148: Line636
+    100150: Line637
+    100152: Line638
+    100154: Line639
+    100156: Line640
+    100158: Line641
+    100160: Line642
+    100162: Line643
+    100164: Line644
+    100166: Line645
+    100168: Line646
+    100170: Line647
+    100172: Line648
+    100174: Line649
+    100176: Line650
+    100178: Line652
+    100180: Line653
+    100182: Line654
+    100184: Line655
+    100186: Line656
+    100188: Line657
+    100190: Line658
+    100192: Line659
+    100194: Line660
+    100196: Line661
+    100198: Line662
+    100200: Line663
+    100202: Line664
+    100204: Line665
+    100206: Line666
+    100208: Line667
+    100210: Line668
+    100212: Line669
+    100214: Line671
+    100216: Line672
+    100218: Line673
+    100220: Line674
+    100222: Line675
+    100224: Line676
+    100226: Line677
+    100228: Line678
+    100230: Line679
+    100232: Line680
+    100234: Line681
+    100236: Line682
+    100238: Line683
+    100240: Line684
+    100242: Line685
+    100244: Line686
+    100246: Line687
+    100248: Line779
+    100250: Line780
+    100252: Line781
+    100254: Line782
+    100256: Line783
+    100258: Line784
+    100260: Line785
+    100262: Line786
+    100264: Line787
+    100266: Line788
+    100268: Line789
+    100270: Line790
+    100272: Line791
+    100274: Line792
+    100276: Line793
+    100278: Line794
+    100280: Line795
+    100282: Line796
+    100284: Line797
+    100286: Line798
+    100288: Line799
+    100290: Line800
+    100292: Line801
+    100294: Line802
+    100296: Line803
+    100298: Line804
+    100300: Line805
+    100302: Line806
+    100304: Line807
+    100306: Line808
+    100308: Line809
+    100310: Line810
+    100312: Line811
+    100314: Line812
+    100316: Line813
+    100318: Line814
+    100320: Line815
+    100322: Line816
+    100324: Line817
+    100326: Line818
+    100328: Line819
+    100330: Line820
+    100332: Line821
+    100334: Line822
+    100336: Line823
+    100338: Line824
+    100340: Line825
+    100342: Line826
+    100344: Line827
+    100346: Line828
+    100348: Line829
+    100350: Line830
+    100352: Line831
+    100354: Line832
+    100356: Object002
+    100358: Object01
+    100360: Particle View 01
+    100362: Samsung
+    100364: Sphere002
+    100366: Sphere005
+    100368: Stand Base
+    100370: Stand Chrome
+    100372: Stand Mount
+    100374: Table
+    100376: TECHO
+    100378: TV Backing
+    100380: TV Bezel
+    100382: Wall-005
+    100384: Wall-1
+    100386: Wall-2
+    100388: Wall-4
+    400000: 01_SQUARE CARPET BODY
+    400002: 3dSolid
+    400004: 3dSolid 1
+    400006: 3dSolid 10
+    400008: 3dSolid 11
+    400010: 3dSolid 12
+    400012: 3dSolid 13
+    400014: 3dSolid 14
+    400016: 3dSolid 15
+    400018: 3dSolid 2
+    400020: 3dSolid 3
+    400022: 3dSolid 4
+    400024: 3dSolid 5
+    400026: 3dSolid 6
+    400028: 3dSolid 7
+    400030: 3dSolid 8
+    400032: 3dSolid 9
+    400034: 3dSolid001
+    400036: 3dSolid002
+    400038: 3dSolid003
+    400040: BIG_WINDOW
+    400042: BIG_WINDOW001
+    400044: Box001
+    400046: Box001 1
+    400048: Box002
+    400050: Box002 1
+    400052: Box004
+    400054: Box005
+    400056: Box006
+    400058: Box007
+    400060: Box008
+    400062: Box008 1
+    400064: Box009
+    400066: Box010
+    400068: Box011
+    400070: Box012
+    400072: Box013
+    400074: Box014
+    400076: Box015
+    400078: Box016
+    400080: Box017
+    400082: Box018
+    400084: Box019
+    400086: Box020
+    400088: Box021
+    400090: Box022
+    400092: Box023
+    400094: Box024
+    400096: Box025
+    400098: Box026
+    400100: Box027
+    400102: Cylinder002
+    400104: Cylinder003
+    400106: Cylinder211
+    400108: Cylinder212
+    400110: Eames_DSW_Chair_001
+    400112: Eames_DSW_Chair_002
+    400114: Eames_DSW_Details_001
+    400116: Eames_DSW_Details_002
+    400118: Eames_DSW_Legs_001
+    400120: Eames_DSW_Legs_002
+    400122: Eames_DSW_Metals_001
+    400124: Eames_DSW_Metals_002
+    400126: Eames_DSW_Top_001
+    400128: Eames_DSW_Top_002
+    400130: FLOOR
+    400132: frise11_z_
+    400134: frise11_z_001
+    400136: Group001
+    400138: Group002
+    400140: //RootNode
+    400142: LCD Screen
+    400144: Line634
+    400146: Line635
+    400148: Line636
+    400150: Line637
+    400152: Line638
+    400154: Line639
+    400156: Line640
+    400158: Line641
+    400160: Line642
+    400162: Line643
+    400164: Line644
+    400166: Line645
+    400168: Line646
+    400170: Line647
+    400172: Line648
+    400174: Line649
+    400176: Line650
+    400178: Line652
+    400180: Line653
+    400182: Line654
+    400184: Line655
+    400186: Line656
+    400188: Line657
+    400190: Line658
+    400192: Line659
+    400194: Line660
+    400196: Line661
+    400198: Line662
+    400200: Line663
+    400202: Line664
+    400204: Line665
+    400206: Line666
+    400208: Line667
+    400210: Line668
+    400212: Line669
+    400214: Line671
+    400216: Line672
+    400218: Line673
+    400220: Line674
+    400222: Line675
+    400224: Line676
+    400226: Line677
+    400228: Line678
+    400230: Line679
+    400232: Line680
+    400234: Line681
+    400236: Line682
+    400238: Line683
+    400240: Line684
+    400242: Line685
+    400244: Line686
+    400246: Line687
+    400248: Line779
+    400250: Line780
+    400252: Line781
+    400254: Line782
+    400256: Line783
+    400258: Line784
+    400260: Line785
+    400262: Line786
+    400264: Line787
+    400266: Line788
+    400268: Line789
+    400270: Line790
+    400272: Line791
+    400274: Line792
+    400276: Line793
+    400278: Line794
+    400280: Line795
+    400282: Line796
+    400284: Line797
+    400286: Line798
+    400288: Line799
+    400290: Line800
+    400292: Line801
+    400294: Line802
+    400296: Line803
+    400298: Line804
+    400300: Line805
+    400302: Line806
+    400304: Line807
+    400306: Line808
+    400308: Line809
+    400310: Line810
+    400312: Line811
+    400314: Line812
+    400316: Line813
+    400318: Line814
+    400320: Line815
+    400322: Line816
+    400324: Line817
+    400326: Line818
+    400328: Line819
+    400330: Line820
+    400332: Line821
+    400334: Line822
+    400336: Line823
+    400338: Line824
+    400340: Line825
+    400342: Line826
+    400344: Line827
+    400346: Line828
+    400348: Line829
+    400350: Line830
+    400352: Line831
+    400354: Line832
+    400356: Object002
+    400358: Object01
+    400360: Particle View 01
+    400362: Samsung
+    400364: Sphere002
+    400366: Sphere005
+    400368: Stand Base
+    400370: Stand Chrome
+    400372: Stand Mount
+    400374: Table
+    400376: TECHO
+    400378: TV Backing
+    400380: TV Bezel
+    400382: Wall-005
+    400384: Wall-1
+    400386: Wall-2
+    400388: Wall-4
+    2100000: No Name
+    2100002: 'Material #2097641638'
+    2100004: 'Material #2097641639'
+    2100006: 'Material #15'
+    2100008: 'Material #14'
+    2100010: 'Material #12'
+    2100012: 'Material #11'
+    2100014: vidrio
+    2100016: 'Material #2097641642'
+    2100018: 'Material #2097641689'
+    2100020: 'Material #2097641690'
+    2100022: 'Material #2097641691'
+    2100024: 'Material #2097641692'
+    2100026: 'Material #2097641693'
+    2100028: 'Material #2097641696'
+    2100030: 'Material #2097641694'
+    2100032: 'Material #2097641695'
+    2100034: 'Material #2097641697'
+    2100036: LCD
+    2100038: Glossy Dark Grey
+    2100040: Frame
+    2100042: Chrome
+    2100044: Base
+    2100046: 'Material #2097641698'
+    2100048: 'Material #2097641699'
+    2100050: 'Material #2097641700'
+    2100052: 'Material #2097641701'
+    2100054: 'Material #2097641740'
+    2100056: 'Material #2097641741'
+    2100058: 'Material #2097641742'
+    2100060: 'Material #2097641743'
+    2100062: 'Material #2097641744'
+    2100064: 'Material #2097641746'
+    2100066: 'Material #2097641749'
+    2100068: 'Material #2097641747'
+    2100070: 'Material #2097641748'
+    2100072: 'Material #2097641745'
+    2300000: 01_SQUARE CARPET BODY
+    2300002: 3dSolid
+    2300004: 3dSolid 1
+    2300006: 3dSolid 10
+    2300008: 3dSolid 11
+    2300010: 3dSolid 12
+    2300012: 3dSolid 13
+    2300014: 3dSolid 14
+    2300016: 3dSolid 15
+    2300018: 3dSolid 2
+    2300020: 3dSolid 3
+    2300022: 3dSolid 4
+    2300024: 3dSolid 5
+    2300026: 3dSolid 6
+    2300028: 3dSolid 7
+    2300030: 3dSolid 8
+    2300032: 3dSolid 9
+    2300034: 3dSolid001
+    2300036: 3dSolid002
+    2300038: 3dSolid003
+    2300040: BIG_WINDOW
+    2300042: BIG_WINDOW001
+    2300044: Box001
+    2300046: Box001 1
+    2300048: Box002
+    2300050: Box002 1
+    2300052: Box004
+    2300054: Box005
+    2300056: Box006
+    2300058: Box007
+    2300060: Box008
+    2300062: Box008 1
+    2300064: Box009
+    2300066: Box010
+    2300068: Box011
+    2300070: Box012
+    2300072: Box013
+    2300074: Box014
+    2300076: Box015
+    2300078: Box016
+    2300080: Box017
+    2300082: Box018
+    2300084: Box019
+    2300086: Box020
+    2300088: Box021
+    2300090: Box022
+    2300092: Box023
+    2300094: Box024
+    2300096: Box025
+    2300098: Box026
+    2300100: Box027
+    2300102: Cylinder002
+    2300104: Cylinder003
+    2300106: Cylinder211
+    2300108: Cylinder212
+    2300110: Eames_DSW_Details_001
+    2300112: Eames_DSW_Details_002
+    2300114: Eames_DSW_Legs_001
+    2300116: Eames_DSW_Legs_002
+    2300118: Eames_DSW_Metals_001
+    2300120: Eames_DSW_Metals_002
+    2300122: Eames_DSW_Top_001
+    2300124: Eames_DSW_Top_002
+    2300126: FLOOR
+    2300128: frise11_z_
+    2300130: frise11_z_001
+    2300132: LCD Screen
+    2300134: Line634
+    2300136: Line635
+    2300138: Line636
+    2300140: Line637
+    2300142: Line638
+    2300144: Line639
+    2300146: Line640
+    2300148: Line641
+    2300150: Line642
+    2300152: Line643
+    2300154: Line644
+    2300156: Line645
+    2300158: Line646
+    2300160: Line647
+    2300162: Line648
+    2300164: Line649
+    2300166: Line650
+    2300168: Line652
+    2300170: Line653
+    2300172: Line654
+    2300174: Line655
+    2300176: Line656
+    2300178: Line657
+    2300180: Line658
+    2300182: Line659
+    2300184: Line660
+    2300186: Line661
+    2300188: Line662
+    2300190: Line663
+    2300192: Line664
+    2300194: Line665
+    2300196: Line666
+    2300198: Line667
+    2300200: Line668
+    2300202: Line669
+    2300204: Line671
+    2300206: Line672
+    2300208: Line673
+    2300210: Line674
+    2300212: Line675
+    2300214: Line676
+    2300216: Line677
+    2300218: Line678
+    2300220: Line679
+    2300222: Line680
+    2300224: Line681
+    2300226: Line682
+    2300228: Line683
+    2300230: Line684
+    2300232: Line685
+    2300234: Line686
+    2300236: Line687
+    2300238: Line779
+    2300240: Line780
+    2300242: Line781
+    2300244: Line782
+    2300246: Line783
+    2300248: Line784
+    2300250: Line785
+    2300252: Line786
+    2300254: Line787
+    2300256: Line788
+    2300258: Line789
+    2300260: Line790
+    2300262: Line791
+    2300264: Line792
+    2300266: Line793
+    2300268: Line794
+    2300270: Line795
+    2300272: Line796
+    2300274: Line797
+    2300276: Line798
+    2300278: Line799
+    2300280: Line800
+    2300282: Line801
+    2300284: Line802
+    2300286: Line803
+    2300288: Line804
+    2300290: Line805
+    2300292: Line806
+    2300294: Line807
+    2300296: Line808
+    2300298: Line809
+    2300300: Line810
+    2300302: Line811
+    2300304: Line812
+    2300306: Line813
+    2300308: Line814
+    2300310: Line815
+    2300312: Line816
+    2300314: Line817
+    2300316: Line818
+    2300318: Line819
+    2300320: Line820
+    2300322: Line821
+    2300324: Line822
+    2300326: Line823
+    2300328: Line824
+    2300330: Line825
+    2300332: Line826
+    2300334: Line827
+    2300336: Line828
+    2300338: Line829
+    2300340: Line830
+    2300342: Line831
+    2300344: Line832
+    2300346: Object002
+    2300348: Object01
+    2300350: Sphere002
+    2300352: Sphere005
+    2300354: Stand Base
+    2300356: Stand Chrome
+    2300358: Stand Mount
+    2300360: TECHO
+    2300362: TV Backing
+    2300364: TV Bezel
+    2300366: Wall-005
+    2300368: Wall-1
+    2300370: Wall-2
+    2300372: Wall-4
+    3300000: 01_SQUARE CARPET BODY
+    3300002: 3dSolid
+    3300004: 3dSolid 1
+    3300006: 3dSolid 10
+    3300008: 3dSolid 11
+    3300010: 3dSolid 12
+    3300012: 3dSolid 13
+    3300014: 3dSolid 14
+    3300016: 3dSolid 15
+    3300018: 3dSolid 2
+    3300020: 3dSolid 3
+    3300022: 3dSolid 4
+    3300024: 3dSolid 5
+    3300026: 3dSolid 6
+    3300028: 3dSolid 7
+    3300030: 3dSolid 8
+    3300032: 3dSolid 9
+    3300034: 3dSolid001
+    3300036: 3dSolid002
+    3300038: 3dSolid003
+    3300040: BIG_WINDOW
+    3300042: BIG_WINDOW001
+    3300044: Box001
+    3300046: Box001 1
+    3300048: Box002
+    3300050: Box002 1
+    3300052: Box004
+    3300054: Box005
+    3300056: Box006
+    3300058: Box007
+    3300060: Box008
+    3300062: Box008 1
+    3300064: Box009
+    3300066: Box010
+    3300068: Box011
+    3300070: Box012
+    3300072: Box013
+    3300074: Box014
+    3300076: Box015
+    3300078: Box016
+    3300080: Box017
+    3300082: Box018
+    3300084: Box019
+    3300086: Box020
+    3300088: Box021
+    3300090: Box022
+    3300092: Box023
+    3300094: Box024
+    3300096: Box025
+    3300098: Box026
+    3300100: Box027
+    3300102: Cylinder002
+    3300104: Cylinder003
+    3300106: Cylinder211
+    3300108: Cylinder212
+    3300110: Eames_DSW_Details_001
+    3300112: Eames_DSW_Details_002
+    3300114: Eames_DSW_Legs_001
+    3300116: Eames_DSW_Legs_002
+    3300118: Eames_DSW_Metals_001
+    3300120: Eames_DSW_Metals_002
+    3300122: Eames_DSW_Top_001
+    3300124: Eames_DSW_Top_002
+    3300126: FLOOR
+    3300128: frise11_z_
+    3300130: frise11_z_001
+    3300132: LCD Screen
+    3300134: Line634
+    3300136: Line635
+    3300138: Line636
+    3300140: Line637
+    3300142: Line638
+    3300144: Line639
+    3300146: Line640
+    3300148: Line641
+    3300150: Line642
+    3300152: Line643
+    3300154: Line644
+    3300156: Line645
+    3300158: Line646
+    3300160: Line647
+    3300162: Line648
+    3300164: Line649
+    3300166: Line650
+    3300168: Line652
+    3300170: Line653
+    3300172: Line654
+    3300174: Line655
+    3300176: Line656
+    3300178: Line657
+    3300180: Line658
+    3300182: Line659
+    3300184: Line660
+    3300186: Line661
+    3300188: Line662
+    3300190: Line663
+    3300192: Line664
+    3300194: Line665
+    3300196: Line666
+    3300198: Line667
+    3300200: Line668
+    3300202: Line669
+    3300204: Line671
+    3300206: Line672
+    3300208: Line673
+    3300210: Line674
+    3300212: Line675
+    3300214: Line676
+    3300216: Line677
+    3300218: Line678
+    3300220: Line679
+    3300222: Line680
+    3300224: Line681
+    3300226: Line682
+    3300228: Line683
+    3300230: Line684
+    3300232: Line685
+    3300234: Line686
+    3300236: Line687
+    3300238: Line779
+    3300240: Line780
+    3300242: Line781
+    3300244: Line782
+    3300246: Line783
+    3300248: Line784
+    3300250: Line785
+    3300252: Line786
+    3300254: Line787
+    3300256: Line788
+    3300258: Line789
+    3300260: Line790
+    3300262: Line791
+    3300264: Line792
+    3300266: Line793
+    3300268: Line794
+    3300270: Line795
+    3300272: Line796
+    3300274: Line797
+    3300276: Line798
+    3300278: Line799
+    3300280: Line800
+    3300282: Line801
+    3300284: Line802
+    3300286: Line803
+    3300288: Line804
+    3300290: Line805
+    3300292: Line806
+    3300294: Line807
+    3300296: Line808
+    3300298: Line809
+    3300300: Line810
+    3300302: Line811
+    3300304: Line812
+    3300306: Line813
+    3300308: Line814
+    3300310: Line815
+    3300312: Line816
+    3300314: Line817
+    3300316: Line818
+    3300318: Line819
+    3300320: Line820
+    3300322: Line821
+    3300324: Line822
+    3300326: Line823
+    3300328: Line824
+    3300330: Line825
+    3300332: Line826
+    3300334: Line827
+    3300336: Line828
+    3300338: Line829
+    3300340: Line830
+    3300342: Line831
+    3300344: Line832
+    3300346: Object002
+    3300348: Object01
+    3300350: Sphere002
+    3300352: Sphere005
+    3300354: Stand Base
+    3300356: Stand Chrome
+    3300358: Stand Mount
+    3300360: TECHO
+    3300362: TV Backing
+    3300364: TV Bezel
+    3300366: Wall-005
+    3300368: Wall-1
+    3300370: Wall-2
+    3300372: Wall-4
+    4300000: Wall-1
+    4300002: Wall-2
+    4300004: FLOOR
+    4300006: Wall-4
+    4300008: frise11_z_
+    4300010: Wall-005
+    4300012: BIG_WINDOW
+    4300014: Object01
+    4300016: BIG_WINDOW001
+    4300018: Object002
+    4300020: 01_SQUARE CARPET BODY
+    4300022: Box001
+    4300024: Box002
+    4300026: Box008
+    4300028: Sphere002
+    4300030: Sphere005
+    4300032: Eames_DSW_Legs_001
+    4300034: Eames_DSW_Metals_001
+    4300036: Eames_DSW_Top_001
+    4300038: Eames_DSW_Details_001
+    4300040: Eames_DSW_Details_002
+    4300042: Eames_DSW_Legs_002
+    4300044: Eames_DSW_Metals_002
+    4300046: Eames_DSW_Top_002
+    4300048: LCD Screen
+    4300050: Stand Mount
+    4300052: TV Backing
+    4300054: TV Bezel
+    4300056: Stand Chrome
+    4300058: Stand Base
+    4300060: 3dSolid
+    4300062: 3dSolid
+    4300064: 3dSolid
+    4300066: 3dSolid
+    4300068: 3dSolid
+    4300070: 3dSolid
+    4300072: 3dSolid
+    4300074: 3dSolid
+    4300076: 3dSolid
+    4300078: 3dSolid
+    4300080: 3dSolid
+    4300082: 3dSolid
+    4300084: 3dSolid
+    4300086: 3dSolid
+    4300088: 3dSolid
+    4300090: 3dSolid
+    4300092: 3dSolid001
+    4300094: 3dSolid002
+    4300096: 3dSolid003
+    4300098: TECHO
+    4300100: Cylinder002
+    4300102: Box001
+    4300104: Box002
+    4300106: Box004
+    4300108: Box005
+    4300110: Box006
+    4300112: Box007
+    4300114: Box009
+    4300116: Box010
+    4300118: Box008
+    4300120: Box011
+    4300122: Box012
+    4300124: Box013
+    4300126: Box014
+    4300128: Box015
+    4300130: Box016
+    4300132: Box017
+    4300134: Box018
+    4300136: Box019
+    4300138: Cylinder003
+    4300140: Box020
+    4300142: Box021
+    4300144: Box022
+    4300146: Box023
+    4300148: Box024
+    4300150: Box025
+    4300152: Box026
+    4300154: Box027
+    4300156: frise11_z_001
+    4300158: Line644
+    4300160: Line645
+    4300162: Line655
+    4300164: Line656
+    4300166: Cylinder211
+    4300168: Line687
+    4300170: Line686
+    4300172: Line685
+    4300174: Line684
+    4300176: Line683
+    4300178: Line682
+    4300180: Line681
+    4300182: Line680
+    4300184: Line679
+    4300186: Line678
+    4300188: Line677
+    4300190: Line676
+    4300192: Line675
+    4300194: Line674
+    4300196: Line779
+    4300198: Line657
+    4300200: Line671
+    4300202: Line669
+    4300204: Line668
+    4300206: Line667
+    4300208: Line666
+    4300210: Line665
+    4300212: Line664
+    4300214: Line663
+    4300216: Line662
+    4300218: Line661
+    4300220: Line660
+    4300222: Line659
+    4300224: Line658
+    4300226: Line654
+    4300228: Line653
+    4300230: Line652
+    4300232: Line650
+    4300234: Line649
+    4300236: Line648
+    4300238: Line647
+    4300240: Line646
+    4300242: Line643
+    4300244: Line642
+    4300246: Line641
+    4300248: Line640
+    4300250: Line639
+    4300252: Line638
+    4300254: Line637
+    4300256: Line636
+    4300258: Line635
+    4300260: Line634
+    4300262: Line673
+    4300264: Line672
+    4300266: Cylinder212
+    4300268: Line780
+    4300270: Line781
+    4300272: Line782
+    4300274: Line783
+    4300276: Line784
+    4300278: Line785
+    4300280: Line786
+    4300282: Line787
+    4300284: Line788
+    4300286: Line789
+    4300288: Line790
+    4300290: Line791
+    4300292: Line792
+    4300294: Line793
+    4300296: Line794
+    4300298: Line795
+    4300300: Line796
+    4300302: Line797
+    4300304: Line798
+    4300306: Line799
+    4300308: Line800
+    4300310: Line801
+    4300312: Line802
+    4300314: Line803
+    4300316: Line804
+    4300318: Line805
+    4300320: Line806
+    4300322: Line807
+    4300324: Line808
+    4300326: Line809
+    4300328: Line810
+    4300330: Line811
+    4300332: Line812
+    4300334: Line813
+    4300336: Line814
+    4300338: Line815
+    4300340: Line816
+    4300342: Line817
+    4300344: Line818
+    4300346: Line819
+    4300348: Line820
+    4300350: Line821
+    4300352: Line822
+    4300354: Line823
+    4300356: Line824
+    4300358: Line825
+    4300360: Line826
+    4300362: Line827
+    4300364: Line828
+    4300366: Line829
+    4300368: Line830
+    4300370: Line831
+    4300372: Line832
+    7400000: Take 001
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.0254
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
